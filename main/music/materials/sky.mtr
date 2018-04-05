@@ -1,0 +1,41 @@
+
+
+textures/sky/darksky
+{
+	qer_editorimage   textures/sky/darksky.png
+
+	noFragment
+	noshadows
+	nooverlays
+	noimpact
+	nolightmap
+//	forceOpaque
+	
+	skyparms - 2048 -
+	
+	xmap_sun .4 .3 .3 66 76 56
+
+	{
+		forceHighQuality
+		blend      add
+		map    textures/sky/darksky.png
+		scroll    time * 0.01, time* 0.02
+		rgb     storm3Table[time * 0.1]
+	}
+	{
+		forceHighQuality
+		blend      filter
+		map    textures/sky/darksky.png
+		scroll    time * 0.04, time* 0.06
+		alpha 0.2
+	}
+	{
+		forceHighQuality
+		blend      gl_dst_color, gl_one
+		map    textures/sky/thunders.png
+		scroll    time * 0.1, 0.1
+		scale 2, 2
+		rgb storm3Table[time * 0.1]
+	}
+}
+

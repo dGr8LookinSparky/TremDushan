@@ -1,0 +1,47 @@
+hud/drop0
+{
+	translucent
+	nomipmap
+	sort postProcess	
+	{
+		stage 		heathazeMap
+		map		gfx/hud/drop1.png
+		deformMagnitude	0.8 * parm4
+	}	
+}
+
+hud/drop1
+{
+	translucent
+	nomipmap
+	sort postProcess	
+	{
+		stage 		heathazeMap
+		map		gfx/hud/drop1.png
+		deformMagnitude	0.99 * parm4
+	}	
+}
+
+hud/drop2
+{
+	translucent
+	nomipmap
+	sort postProcess	
+	{
+		stage 		heathazeMap
+		map		gfx/hud/drop2.png
+		deformMagnitude	0.95 * parm4
+	}	
+}
+
+hud/drop3
+{
+	translucent
+	nomipmap
+	sort postProcess	
+	{
+		stage 		heathazeMap
+		map		gfx/hud/drop3.png
+		deformMagnitude	0.79 * parm4
+	}	
+}

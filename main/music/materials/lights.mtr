@@ -1,0 +1,171 @@
+
+lights/flickerLight
+{
+	{
+			
+		stage attenuationMapXY
+		forceHighQuality		
+		map	textures/lights/squarelight.png
+		colored
+	    	rotate	time * .1
+		zeroClamp
+		red 		( flashtable [Parm4 + (time * (.25 * Parm3)) ]) * Parm0
+		green 		( flashtable [Parm4 + (time * (.25 * Parm3)) ]) * Parm1
+		blue 		( flashtable [Parm4 + (time * (.25 * Parm3)) ]) * Parm2
+	}
+}
+
+
+lights/roqVideoLight
+{
+	lightFalloffImage	makeintensity(textures/lights/squarelight1b.png)
+//	lightFalloffImage	textures/lights/skyline1.png
+//	lightFalloffImage	_noFalloff
+	{
+		stage attenuationMapXY
+		colored
+		videoMap video/intro.RoQ
+		
+		//scale 1, 0.9
+		//scroll time * 0.1, 0
+		//scroll 0, time * 0.1
+		rotate 180
+	}
+}
+
+lights/stormLight
+{
+	{
+		if(storm3Table[time * 0.1])
+	
+		stage attenuationMapXY
+		forceHighQuality		
+		map	textures/lights/squarelight.png
+		colored
+	    	rotate	time * .1
+		zeroClamp
+		rgb storm3Table[time * 0.1]
+	}
+}
+
+lights/flashLight
+{
+//	lightFalloffImage	_noFalloff
+//	lightFalloffImage	textures/lights/skyline1.png
+	lightFalloffImage	makeintensity(textures/lights/squarelight1b.png)
+	
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map	textures/lights/round.png
+		zeroClamp
+		colored
+	}
+}
+lights/ambientLight
+{
+	ambientLight
+	lightFalloffImage	makeintensity( lights/squarelight1a.tga )
+	{
+		forceHighQuality
+		map lights/squarelight1.tga
+		colored
+		zeroClamp
+	}
+}
+
+lights/flashLight1
+{
+	lightFalloffImage	makeintensity(textures/lights/squarelight1b.png)
+	
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map	textures/lights/flashlight1.png
+		zeroClamp
+		colored
+	}
+}
+
+lights/roundFire
+{
+	lightFalloffImage	makeintensity(textures/lights/squarelight1a.png)
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map	textures/lights/round.png
+		red 	( firetable [Parm4 + (time / 6 * (Parm3)) ]) * Parm0
+		green 	( firetable [Parm4 + (time / 6 * (Parm3)) ]) * Parm1
+		blue 	( firetable [Parm4 + (time / 6 * (Parm3)) ]) * Parm2
+		rotate	firelightrot [ time * 2 ]
+		zeroClamp
+	}
+}
+
+/* LIGHTS */
+
+
+lights/defaultDynamicLight
+{
+	{
+		stage attenuationMapZ
+		map makeintensity(textures/lights/squarelight1a.png)
+		edgeClamp
+	}
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map textures/lights/round.png
+		colored
+		zeroClamp
+	}
+}
+
+lights/defaultPointLight
+{
+	// this will also be the falloff for any
+	// point light shaders that don't specify one
+	lightFalloffImage	makeintensity( textures/lights/squarelight1a.png )
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map textures/lights/squarelight1.png
+		colored
+		zeroClamp
+	}
+}
+
+lights/defaultProjectedLight
+{
+	// by default, stay bright almost all the way to the end
+//	lightFalloffImage	_noFalloff
+
+//	lightFalloffImage	textures/lights/skyline1.png
+	lightFalloffImage	makeintensity(textures/lights/squarelight1b.png)
+//	lightFalloffImage	makeintensity(textures/lights/flashoff.png)
+	
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map textures/lights/squarelight1.png
+		colored
+		zeroClamp
+	}
+}
+
+lights/shadowProjectedLight
+{
+	lightFalloffImage	makeintensity(textures/lights/squarelight1b.png)
+	
+	{
+		stage attenuationMapXY
+		forceHighQuality
+		map textures/lights/squarelight1.png
+		colored
+		//red 	Parm0 * Parm3
+		//green 	Parm0 * Parm3
+		//blue 	Parm0 * Parm3
+		//alpha	1.0
+		zeroClamp
+	}
+}

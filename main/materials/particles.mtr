@@ -1,0 +1,23 @@
+
+particles/smoke
+{
+	twoSided
+	entityMergable		// allow all the sprites to be merged together
+	{
+		map textures/particles/smoke.png
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		vertexColor
+	}
+}
+
+
+particles/rain
+{
+	twoSided
+	entityMergable		// allow all the sprites to be merged together
+	{
+		map textures/particles/rain.png
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		vertexColor
+	}
+}

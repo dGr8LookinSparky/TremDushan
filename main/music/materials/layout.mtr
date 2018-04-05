@@ -1,0 +1,21 @@
+textures/layout/ceiling01
+{
+	qer_editorimage 		textures/layout/ceiling01	
+	diffusemap 			textures/layout/ceiling01
+}
+
+
+textures/layout/floor01
+{
+	qer_editorimage 		textures/layout/floor01	
+	diffusemap 			textures/layout/floor01
+}
+
+textures/layout/wall01
+{
+      	qer_editorimage 		textures/layout/wall01	
+	diffusemap 			textures/layout/wall01
+	specularMap			textures/layout/wall01_specular
+	bumpMap 	                textures/layout/wall01_normal
+}
+

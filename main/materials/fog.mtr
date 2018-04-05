@@ -1,0 +1,22 @@
+
+textures/fog/fog
+{
+	qer_editorimage textures/fog/fog.png
+	
+	//surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	surfaceparm fog
+
+	twoSided
+	translucent
+	nonsolid
+	nolightmap
+	
+	xmap_globaltexture
+	xmap_surfacelight 50
+	
+	fogparms ( 0.09411 0.09803 0.12549 ) 684
+
+}
+

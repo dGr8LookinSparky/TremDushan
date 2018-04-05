@@ -1,0 +1,41 @@
+// DEBUG.SHADER
+
+white
+{
+	nopicmip
+	twoSided
+	{
+		map	_white
+		blend	GL_SRC_ALPHA , GL_ONE_MINUS_SRC_ALPHA
+		rgbgen	vertex
+	}
+}
+
+debugPlayerAABB
+{
+	nopicmip
+
+	{
+		map gfx/aabb.tga
+		blend add
+		rgbGen vertex
+	}
+}
+
+debugPlayerAABB_twoSided
+{
+	nopicmip
+	twoSided
+
+	{
+		map gfx/aabb.tga
+		blend add
+		rgbGen vertex
+	}
+}
+debugWorld
+{	
+	diffusemap 			textures/layout/wall01
+	specularMap			textures/layout/wall01_specular
+	bumpMap 	                textures/layout/wall01_normal
+}
