@@ -1261,7 +1261,7 @@ void CL_InitUI( void )
     v = VM_Call( uivm, UI_GETAPIVERSION );
     if( v == UI_OLD_API_VERSION )
     {
-//      Com_Printf(S_COLOR_YELLOW "WARNING: loading old Quake III Arena User Interface version %d\n", v );
+//      Com_Printf(S_COLOR_YELLOW "WARNING: loading old OpenWolf User Interface version %d\n", v );
         // init for this gamestate
         VM_Call( uivm, UI_INIT, ( cls.state >= CA_AUTHORIZING && cls.state < CA_ACTIVE ) );
     }
