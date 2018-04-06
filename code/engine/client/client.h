@@ -37,8 +37,14 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 #endif							/* USE_CURL */
 
 #ifdef USE_VOIP
+#ifdef __cplusplus
+extern "C" {
+#endif
 #include "speex/speex.h"
 #include "speex/speex_preprocess.h"
+#ifdef __cplusplus
+}
+#endif
 #endif
 
 // file full of random crap that gets used to create cl_guid
@@ -423,11 +429,6 @@ extern cvar_t*  cl_autoScreenshotPeriod;
 extern cvar_t*  cl_autoScreenshotName;
 
 extern cvar_t*  cl_consoleKeys;
-
-#ifdef USE_MUMBLE
-extern cvar_t*  cl_useMumble;
-extern cvar_t*  cl_mumbleScale;
-#endif
 
 #ifdef USE_VOIP
 // cl_voipSendTarget is a string: "all" to broadcast to everyone, "none" to

@@ -70,3 +70,16 @@ base/video/*
 /*.sdf
 /*.sln
 /*.suo
+/main/cgamex86_64.exp
+/main/guix86.exp
+/main/guix86_64.exp
+/main/qagamex86.exp
+/main/qagamex86_64.exp
+/main/cgamex86.lib
+/main/cgamex86_64.lib
+/main/guix86.lib
+/main/guix86_64.lib
+/main/qagamex86.lib
+/main/qagamex86_64.lib
+/ipch
+/main/*.exp
