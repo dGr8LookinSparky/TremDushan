@@ -4162,7 +4162,7 @@ static void Render_fog()
 // see Fog Polygon Volumes documentation by Nvidia for further information
 static void Render_volumetricFog()
 {
-#if 0
+#if 1
     vec3_t          viewOrigin;
     float           fogDensity;
     vec3_t          fogColor;
@@ -4175,36 +4175,48 @@ static void Render_volumetricFog()
         
         previousFBO = glState.currentFBO;
         
-        if( r_deferredShading->integer && glConfig2.framebufferObjectAvailable && glConfig2.textureFloatAvailable &&
-                glConfig2.drawBuffersAvailable && glConfig2.maxDrawBuffers >= 4 )
+        if( DS_STANDARD_ENABLED() )
         {
             // copy deferredRenderFBO to occlusionRenderFBO
-            glBindFramebufferEXT( GL_READ_FRAMEBUFFER_EXT, tr.deferredRenderFBO->frameBuffer );
-            glBindFramebufferEXT( GL_DRAW_FRAMEBUFFER_EXT, tr.occlusionRenderFBO->frameBuffer );
-            glBlitFramebufferEXT( 0, 0, tr.deferredRenderFBO->width, tr.deferredRenderFBO->height,
-                                  0, 0, tr.occlusionRenderFBO->width, tr.occlusionRenderFBO->height,
-                                  GL_DEPTH_BUFFER_BIT,
-                                  GL_NEAREST );
+            glBindFramebuffer( GL_READ_FRAMEBUFFER, tr.geometricRenderFBO->frameBuffer );
+            glBindFramebuffer( GL_DRAW_FRAMEBUFFER, tr.occlusionRenderFBO->frameBuffer );
+            glBlitFramebuffer( 0, 0, glConfig.vidWidth, glConfig.vidHeight,
+                               0, 0, glConfig.vidWidth, glConfig.vidHeight,
+                               GL_DEPTH_BUFFER_BIT,
+                               GL_NEAREST );
         }
-        else if( r_hdrRendering->integer && glConfig2.framebufferObjectAvailable && glConfig2.textureFloatAvailable )
+        else if( HDR_ENABLED() )
         {
+            GL_CheckErrors();
+            
             // copy deferredRenderFBO to occlusionRenderFBO
-            glBindFramebufferEXT( GL_READ_FRAMEBUFFER_EXT, tr.deferredRenderFBO->frameBuffer );
-            glBindFramebufferEXT( GL_DRAW_FRAMEBUFFER_EXT, tr.occlusionRenderFBO->frameBuffer );
-            glBlitFramebufferEXT( 0, 0, tr.deferredRenderFBO->width, tr.deferredRenderFBO->height,
-                                  0, 0, tr.occlusionRenderFBO->width, tr.occlusionRenderFBO->height,
-                                  GL_DEPTH_BUFFER_BIT,
-                                  GL_NEAREST );
+#if 0
+            glBindFramebuffer( GL_READ_FRAMEBUFFER, tr.deferredRenderFBO->frameBuffer );
+            glBindFramebuffer( GL_DRAW_FRAMEBUFFER, tr.occlusionRenderFBO->frameBuffer );
+            glBlitFramebuffer( 0, 0, tr.deferredRenderFBO->width, tr.deferredRenderFBO->height,
+                               0, 0, tr.occlusionRenderFBO->width, tr.occlusionRenderFBO->height,
+                               GL_DEPTH_BUFFER_BIT,
+                               GL_NEAREST );
+#else
+            glBindFramebuffer( GL_READ_FRAMEBUFFER, tr.deferredRenderFBO->frameBuffer );
+            glBindFramebuffer( GL_DRAW_FRAMEBUFFER, tr.occlusionRenderFBO->frameBuffer );
+            glBlitFramebuffer( 0, 0, glConfig.vidWidth, glConfig.vidHeight,
+                               0, 0, glConfig.vidWidth, glConfig.vidHeight,
+                               GL_DEPTH_BUFFER_BIT,
+                               GL_NEAREST );
+#endif
+                               
+            GL_CheckErrors();
         }
         else
         {
             // copy depth of the main context to occlusionRenderFBO
-            glBindFramebufferEXT( GL_READ_FRAMEBUFFER_EXT, 0 );
-            glBindFramebufferEXT( GL_DRAW_FRAMEBUFFER_EXT, tr.occlusionRenderFBO->frameBuffer );
-            glBlitFramebufferEXT( 0, 0, glConfig.vidWidth, glConfig.vidHeight,
-                                  0, 0, glConfig.vidWidth, glConfig.vidHeight,
-                                  GL_DEPTH_BUFFER_BIT,
-                                  GL_NEAREST );
+            glBindFramebuffer( GL_READ_FRAMEBUFFER, 0 );
+            glBindFramebuffer( GL_DRAW_FRAMEBUFFER, tr.occlusionRenderFBO->frameBuffer );
+            glBlitFramebuffer( 0, 0, glConfig.vidWidth, glConfig.vidHeight,
+                               0, 0, glConfig.vidWidth, glConfig.vidHeight,
+                               GL_DEPTH_BUFFER_BIT,
+                               GL_NEAREST );
         }
         
         // setup shader with uniforms
@@ -4275,12 +4287,7 @@ static void Render_volumetricFog()
         
         // bind u_DepthMap
         GL_SelectTexture( 0 );
-        if( r_deferredShading->integer && glConfig2.framebufferObjectAvailable && glConfig2.textureFloatAvailable &&
-                glConfig2.drawBuffersAvailable && glConfig2.maxDrawBuffers >= 4 )
-        {
-            GL_Bind( tr.depthRenderImage );
-        }
-        else if( r_hdrRendering->integer && glConfig2.framebufferObjectAvailable && glConfig2.textureFloatAvailable )
+        if( DS_STANDARD_ENABLED() || HDR_ENABLED() )
         {
             GL_Bind( tr.depthRenderImage );
         }
@@ -4704,8 +4711,16 @@ void Tess_StageIteratorGeneric()
         Tess_UpdateVBOs( 0 );
     }
     
+    if( tess.surfaceShader->fogVolume )
+    {
+        Render_volumetricFog();
+        return;
+    }
+    
     // set GL fog
-    //SetIteratorFog();
+#if defined(COMPAT_ET)
+    SetIteratorFog();
+#endif
     
     // set face culling appropriately
     GL_Cull( tess.surfaceShader->cullType );
