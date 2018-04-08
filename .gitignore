@@ -25,7 +25,6 @@ base/video/*
 /code/engine/*.filters
 /code/engine/*.user
 /code/engine/obj
-/code/engine/GUI/*
 /code/engine/GUI/*.vcxproj
 /code/engine/GUI/*.filters
 /code/engine/GUI/*.user
@@ -45,7 +44,6 @@ base/video/*
 /code/engine/cgame/base_cgame.vcxproj
 /code/engine/cgame/base_cgame.vcxproj.filters
 /code/engine/cgame/base_cgame.vcxproj.user
-/code/engine/cgame/*
 /code/engine/cgame/*.vcxproj
 /code/engine/cgame/*.filters
 /code/engine/cgame/*.user
@@ -83,3 +81,13 @@ base/video/*
 /main/qagamex86_64.lib
 /ipch
 /main/*.exp
+/bin64/OWMap.ilk
+/bin64/OWMap.pdb
+/bin64/OpenWolf.ilk
+/bin64/OpenWolf.pdb
+/bin64/Openwolf-dedicated.ilk
+/bin64/Openwolf-dedicated.pdb
+/bin64/master.ilk
+/bin64/master.pdb
+/main/cgamex86_64.ilk
+/main/cgamex86_64.pdb

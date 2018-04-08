@@ -1,0 +1,2680 @@
+textures/mslaf_fearis/10doors
+{
+	qer_editorimage textures/mslaf_fearis/10doors_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/10doors_NRM, heightmap ( textures/mslaf_fearis/10doors_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/10doors_COLOR
+	specularmap textures/mslaf_fearis/10doors_SPEC
+}
+
+textures/mslaf_fearis/13_elevfloor2
+{
+	qer_editorimage textures/mslaf_fearis/13_elevfloor2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/13_elevfloor2_NRM, heightmap ( textures/mslaf_fearis/13_elevfloor2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/13_elevfloor2_COLOR
+	specularmap textures/mslaf_fearis/13_elevfloor2_SPEC
+}
+
+textures/mslaf_fearis/13_elevfloor
+{
+	qer_editorimage textures/mslaf_fearis/13_elevfloor_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/13_elevfloor_NRM, heightmap ( textures/mslaf_fearis/13_elevfloor_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/13_elevfloor_COLOR
+	specularmap textures/mslaf_fearis/13_elevfloor_SPEC
+}
+
+textures/mslaf_fearis/13_walldeco
+{
+	qer_editorimage textures/mslaf_fearis/13_walldeco_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/13_walldeco_NRM, heightmap ( textures/mslaf_fearis/13_walldeco_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/13_walldeco_COLOR
+	specularmap textures/mslaf_fearis/13_walldeco_SPEC
+}
+
+textures/mslaf_fearis/7_steps
+{
+	qer_editorimage textures/mslaf_fearis/7_steps_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/7_steps_NRM, heightmap ( textures/mslaf_fearis/7_steps_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/7_steps_COLOR
+	specularmap textures/mslaf_fearis/7_steps_SPEC
+}
+
+textures/mslaf_fearis/8_floor2
+{
+	qer_editorimage textures/mslaf_fearis/8_floor2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/8_floor2_NRM, heightmap ( textures/mslaf_fearis/8_floor2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/8_floor2_COLOR
+	specularmap textures/mslaf_fearis/8_floor2_SPEC
+}
+
+textures/mslaf_fearis/8_floor
+{
+	qer_editorimage textures/mslaf_fearis/8_floor_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/8_floor_NRM, heightmap ( textures/mslaf_fearis/8_floor_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/8_floor_COLOR
+	specularmap textures/mslaf_fearis/8_floor_SPEC
+}
+
+textures/mslaf_fearis/basedd_01a
+{
+	qer_editorimage textures/mslaf_fearis/basedd_01a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_01a_NRM, heightmap ( textures/mslaf_fearis/basedd_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_01a_COLOR
+	specularmap textures/mslaf_fearis/basedd_01a_SPEC
+}
+
+textures/mslaf_fearis/basedd_03a
+{
+	qer_editorimage textures/mslaf_fearis/basedd_03a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_03a_NRM, heightmap ( textures/mslaf_fearis/basedd_03a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_03a_COLOR
+	specularmap textures/mslaf_fearis/basedd_03a_SPEC
+}
+
+textures/mslaf_fearis/basedd_06_rav01
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06_rav01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06_rav01_NRM, heightmap ( textures/mslaf_fearis/basedd_06_rav01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06_rav01_COLOR
+	specularmap textures/mslaf_fearis/basedd_06_rav01_SPEC
+}
+
+textures/mslaf_fearis/basedd_06_rav02
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06_rav02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06_rav02_NRM, heightmap ( textures/mslaf_fearis/basedd_06_rav02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06_rav02_COLOR
+	specularmap textures/mslaf_fearis/basedd_06_rav02_SPEC
+}
+
+textures/mslaf_fearis/basedd_06_rav03
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06_rav03_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06_rav03_NRM, heightmap ( textures/mslaf_fearis/basedd_06_rav03_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06_rav03_COLOR
+	specularmap textures/mslaf_fearis/basedd_06_rav03_SPEC
+}
+
+textures/mslaf_fearis/basedd_06_rav04
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06_rav04_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06_rav04_NRM, heightmap ( textures/mslaf_fearis/basedd_06_rav04_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06_rav04_COLOR
+	specularmap textures/mslaf_fearis/basedd_06_rav04_SPEC
+}
+
+textures/mslaf_fearis/basedd_06_rav05
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06_rav05_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06_rav05_NRM, heightmap ( textures/mslaf_fearis/basedd_06_rav05_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06_rav05_COLOR
+	specularmap textures/mslaf_fearis/basedd_06_rav05_SPEC
+}
+
+textures/mslaf_fearis/basedd_06a_01
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_01_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_01_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_01_SPEC
+}
+
+textures/mslaf_fearis/baseee_02b
+{
+	qer_editorimage textures/mslaf_fearis/baseee_02b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/baseee_02b_NRM, heightmap ( textures/mslaf_fearis/baseee_02b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/baseee_02b_COLOR
+	specularmap textures/mslaf_fearis/baseee_02b_SPEC
+}
+
+textures/mslaf_fearis/box1
+{
+	qer_editorimage textures/mslaf_fearis/box1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/box1_NRM, heightmap ( textures/mslaf_fearis/box1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/box1_COLOR
+	specularmap textures/mslaf_fearis/box1_SPEC
+}
+
+textures/mslaf_fearis/ceil1
+{
+	qer_editorimage textures/mslaf_fearis/ceil1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/ceil1_NRM, heightmap ( textures/mslaf_fearis/ceil1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/ceil1_COLOR
+	specularmap textures/mslaf_fearis/ceil1_SPEC
+}
+
+textures/mslaf_fearis/ceil2
+{
+	qer_editorimage textures/mslaf_fearis/ceil2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/ceil2_NRM, heightmap ( textures/mslaf_fearis/ceil2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/ceil2_COLOR
+	specularmap textures/mslaf_fearis/ceil2_SPEC
+}
+
+textures/mslaf_fearis/console_screen1
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+}
+
+textures/mslaf_fearis/crateee_02a
+{
+	qer_editorimage textures/mslaf_fearis/crateee_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/crateee_02a_NRM, heightmap ( textures/mslaf_fearis/crateee_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/crateee_02a_COLOR
+	specularmap textures/mslaf_fearis/crateee_02a_SPEC
+}
+
+textures/mslaf_fearis/entwall1
+{
+	qer_editorimage textures/mslaf_fearis/entwall1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/entwall1_NRM, heightmap ( textures/mslaf_fearis/entwall1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/entwall1_COLOR
+	specularmap textures/mslaf_fearis/entwall1_SPEC
+}
+
+textures/mslaf_fearis/entwall2
+{
+	qer_editorimage textures/mslaf_fearis/entwall2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/entwall2_NRM, heightmap ( textures/mslaf_fearis/entwall2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/entwall2_COLOR
+	specularmap textures/mslaf_fearis/entwall2_SPEC
+}
+
+textures/mslaf_fearis/entwall3
+{
+	qer_editorimage textures/mslaf_fearis/entwall3_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/entwall3_NRM, heightmap ( textures/mslaf_fearis/entwall3_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/entwall3_COLOR
+	specularmap textures/mslaf_fearis/entwall3_SPEC
+}
+
+textures/mslaf_fearis/entwall4
+{
+	qer_editorimage textures/mslaf_fearis/entwall4_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/entwall4_NRM, heightmap ( textures/mslaf_fearis/entwall4_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/entwall4_COLOR
+	specularmap textures/mslaf_fearis/entwall4_SPEC
+}
+
+textures/mslaf_fearis/entwall5
+{
+	qer_editorimage textures/mslaf_fearis/entwall5_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/entwall5_NRM, heightmap ( textures/mslaf_fearis/entwall5_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/entwall5_COLOR
+	specularmap textures/mslaf_fearis/entwall5_SPEC
+}
+
+textures/mslaf_fearis/entwall6
+{
+	qer_editorimage textures/mslaf_fearis/entwall6_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/entwall6_NRM, heightmap ( textures/mslaf_fearis/entwall6_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/entwall6_COLOR
+	specularmap textures/mslaf_fearis/entwall6_SPEC
+}
+
+textures/mslaf_fearis/floorcc_02a
+{
+	qer_editorimage textures/mslaf_fearis/floorcc_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorcc_02a_NRM, heightmap ( textures/mslaf_fearis/floorcc_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorcc_02a_COLOR
+	specularmap textures/mslaf_fearis/floorcc_02a_SPEC
+}
+
+textures/mslaf_fearis/floorcc_02b
+{
+	qer_editorimage textures/mslaf_fearis/floorcc_02b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorcc_02b_NRM, heightmap ( textures/mslaf_fearis/floorcc_02b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorcc_02b_COLOR
+	specularmap textures/mslaf_fearis/floorcc_02b_SPEC
+}
+
+textures/mslaf_fearis/floorcc_03c2
+{
+	qer_editorimage textures/mslaf_fearis/floorcc_03c2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorcc_03c2_NRM, heightmap ( textures/mslaf_fearis/floorcc_03c2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorcc_03c2_COLOR
+	specularmap textures/mslaf_fearis/floorcc_03c2_SPEC
+}
+
+textures/mslaf_fearis/floorcc_09a2
+{
+	qer_editorimage textures/mslaf_fearis/floorcc_09a2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorcc_09a2_NRM, heightmap ( textures/mslaf_fearis/floorcc_09a2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorcc_09a2_COLOR
+	specularmap textures/mslaf_fearis/floorcc_09a2_SPEC
+}
+
+textures/mslaf_fearis/floorcc_10a1
+{
+	qer_editorimage textures/mslaf_fearis/floorcc_10a1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorcc_10a1_NRM, heightmap ( textures/mslaf_fearis/floorcc_10a1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorcc_10a1_COLOR
+	specularmap textures/mslaf_fearis/floorcc_10a1_SPEC
+}
+
+textures/mslaf_fearis/floorcc_10a2a
+{
+	qer_editorimage textures/mslaf_fearis/floorcc_10a2a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorcc_10a2a_NRM, heightmap ( textures/mslaf_fearis/floorcc_10a2a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorcc_10a2a_COLOR
+	specularmap textures/mslaf_fearis/floorcc_10a2a_SPEC
+}
+
+textures/mslaf_fearis/floordd_01alb01b
+{
+	qer_editorimage textures/mslaf_fearis/floordd_01alb01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_01alb01b_NRM, heightmap ( textures/mslaf_fearis/floordd_01alb01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_01alb01b_COLOR
+	specularmap textures/mslaf_fearis/floordd_01alb01b_SPEC
+}
+
+textures/mslaf_fearis/floordd_01alb03b
+{
+	qer_editorimage textures/mslaf_fearis/floordd_01alb03b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_01alb03b_NRM, heightmap ( textures/mslaf_fearis/floordd_01alb03b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_01alb03b_COLOR
+	specularmap textures/mslaf_fearis/floordd_01alb03b_SPEC
+}
+
+textures/mslaf_fearis/floordd_03c2
+{
+	qer_editorimage textures/mslaf_fearis/floordd_03c2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_03c2_NRM, heightmap ( textures/mslaf_fearis/floordd_03c2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_03c2_COLOR
+	specularmap textures/mslaf_fearis/floordd_03c2_SPEC
+}
+
+textures/mslaf_fearis/floordd_10a2a
+{
+	qer_editorimage textures/mslaf_fearis/floordd_10a2a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_10a2a_NRM, heightmap ( textures/mslaf_fearis/floordd_10a2a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_10a2a_COLOR
+	specularmap textures/mslaf_fearis/floordd_10a2a_SPEC
+}
+
+textures/mslaf_fearis/floordd_10a2c
+{
+	qer_editorimage textures/mslaf_fearis/floordd_10a2c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_10a2c_NRM, heightmap ( textures/mslaf_fearis/floordd_10a2c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_10a2c_COLOR
+	specularmap textures/mslaf_fearis/floordd_10a2c_SPEC
+}
+
+textures/mslaf_fearis/floordd_base02
+{
+	qer_editorimage textures/mslaf_fearis/floordd_base02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_base02_NRM, heightmap ( textures/mslaf_fearis/floordd_base02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_base02_COLOR
+	specularmap textures/mslaf_fearis/floordd_base02_SPEC
+}
+
+textures/mslaf_fearis/floorde_02
+{
+	qer_editorimage textures/mslaf_fearis/floorde_02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorde_02_NRM, heightmap ( textures/mslaf_fearis/floorde_02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorde_02_COLOR
+	specularmap textures/mslaf_fearis/floorde_02_SPEC
+}
+
+textures/mslaf_fearis/floorde_dd01
+{
+	qer_editorimage textures/mslaf_fearis/floorde_dd01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floorde_dd01_NRM, heightmap ( textures/mslaf_fearis/floorde_dd01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floorde_dd01_COLOR
+	specularmap textures/mslaf_fearis/floorde_dd01_SPEC
+}
+
+textures/mslaf_fearis/impwallee_01a-1
+{
+	qer_editorimage textures/mslaf_fearis/impwallee_01a-1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/impwallee_01a-1_NRM, heightmap ( textures/mslaf_fearis/impwallee_01a-1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/impwallee_01a-1_COLOR
+	specularmap textures/mslaf_fearis/impwallee_01a-1_SPEC
+}
+
+textures/mslaf_fearis/lightdd_04
+{
+	qer_editorimage textures/mslaf_fearis/lightdd_04_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightdd_04_NRM, heightmap ( textures/mslaf_fearis/lightdd_04_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightdd_04_COLOR
+	specularmap textures/mslaf_fearis/lightdd_04_SPEC
+}
+
+textures/mslaf_fearis/model_column41
+{
+	qer_editorimage textures/mslaf_fearis/model_column41_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/model_column41_NRM, heightmap ( textures/mslaf_fearis/model_column41_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/model_column41_COLOR
+	specularmap textures/mslaf_fearis/model_column41_SPEC
+}
+
+textures/mslaf_fearis/model_column42
+{
+	qer_editorimage textures/mslaf_fearis/model_column42_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/model_column42_NRM, heightmap ( textures/mslaf_fearis/model_column42_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/model_column42_COLOR
+	specularmap textures/mslaf_fearis/model_column42_SPEC
+}
+
+textures/mslaf_fearis/modelab_05a
+{
+	qer_editorimage textures/mslaf_fearis/modelab_05a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelab_05a_NRM, heightmap ( textures/mslaf_fearis/modelab_05a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelab_05a_COLOR
+	specularmap textures/mslaf_fearis/modelab_05a_SPEC
+}
+
+textures/mslaf_fearis/modelab_05b
+{
+	qer_editorimage textures/mslaf_fearis/modelab_05b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelab_05b_NRM, heightmap ( textures/mslaf_fearis/modelab_05b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelab_05b_COLOR
+	specularmap textures/mslaf_fearis/modelab_05b_SPEC
+}
+
+textures/mslaf_fearis/modelad_04b
+{
+	qer_editorimage textures/mslaf_fearis/modelad_04b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelad_04b_NRM, heightmap ( textures/mslaf_fearis/modelad_04b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelad_04b_COLOR
+	specularmap textures/mslaf_fearis/modelad_04b_SPEC
+}
+
+textures/mslaf_fearis/modelcc_11
+{
+	qer_editorimage textures/mslaf_fearis/modelcc_11_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelcc_11_NRM, heightmap ( textures/mslaf_fearis/modelcc_11_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelcc_11_COLOR
+	specularmap textures/mslaf_fearis/modelcc_11_SPEC
+}
+
+textures/mslaf_fearis/modelcd_01a
+{
+	qer_editorimage textures/mslaf_fearis/modelcd_01a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelcd_01a_NRM, heightmap ( textures/mslaf_fearis/modelcd_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelcd_01a_COLOR
+	specularmap textures/mslaf_fearis/modelcd_01a_SPEC
+}
+
+textures/mslaf_fearis/modelcd_01b
+{
+	qer_editorimage textures/mslaf_fearis/modelcd_01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelcd_01b_NRM, heightmap ( textures/mslaf_fearis/modelcd_01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelcd_01b_COLOR
+	specularmap textures/mslaf_fearis/modelcd_01b_SPEC
+}
+
+textures/mslaf_fearis/modelcd_01c1
+{
+	qer_editorimage textures/mslaf_fearis/modelcd_01c1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modelcd_01c1_NRM, heightmap ( textures/mslaf_fearis/modelcd_01c1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modelcd_01c1_COLOR
+	specularmap textures/mslaf_fearis/modelcd_01c1_SPEC
+}
+
+textures/mslaf_fearis/modeldb_04a
+{
+	qer_editorimage textures/mslaf_fearis/modeldb_04a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldb_04a_NRM, heightmap ( textures/mslaf_fearis/modeldb_04a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldb_04a_COLOR
+	specularmap textures/mslaf_fearis/modeldb_04a_SPEC
+}
+
+textures/mslaf_fearis/modeldd_02a
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_02a_NRM, heightmap ( textures/mslaf_fearis/modeldd_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_02a_COLOR
+	specularmap textures/mslaf_fearis/modeldd_02a_SPEC
+}
+
+textures/mslaf_fearis/modeldd_02b
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_02b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_02b_NRM, heightmap ( textures/mslaf_fearis/modeldd_02b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_02b_COLOR
+	specularmap textures/mslaf_fearis/modeldd_02b_SPEC
+}
+
+textures/mslaf_fearis/modeldd_03a
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_03a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_03a_NRM, heightmap ( textures/mslaf_fearis/modeldd_03a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_03a_COLOR
+	specularmap textures/mslaf_fearis/modeldd_03a_SPEC
+}
+
+textures/mslaf_fearis/modeldd_03b
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_03b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_03b_NRM, heightmap ( textures/mslaf_fearis/modeldd_03b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_03b_COLOR
+	specularmap textures/mslaf_fearis/modeldd_03b_SPEC
+}
+
+textures/mslaf_fearis/modeldd_03c
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_03c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_03c_NRM, heightmap ( textures/mslaf_fearis/modeldd_03c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_03c_COLOR
+	specularmap textures/mslaf_fearis/modeldd_03c_SPEC
+}
+
+textures/mslaf_fearis/modeldd_10a1
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_10a1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_10a1_NRM, heightmap ( textures/mslaf_fearis/modeldd_10a1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_10a1_COLOR
+	specularmap textures/mslaf_fearis/modeldd_10a1_SPEC
+}
+
+textures/mslaf_fearis/modeldd_10a
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_10a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_10a_NRM, heightmap ( textures/mslaf_fearis/modeldd_10a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_10a_COLOR
+	specularmap textures/mslaf_fearis/modeldd_10a_SPEC
+}
+
+textures/mslaf_fearis/modeldd_10b1
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_10b1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_10b1_NRM, heightmap ( textures/mslaf_fearis/modeldd_10b1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_10b1_COLOR
+	specularmap textures/mslaf_fearis/modeldd_10b1_SPEC
+}
+
+textures/mslaf_fearis/modeldd_10b
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_10b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_10b_NRM, heightmap ( textures/mslaf_fearis/modeldd_10b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_10b_COLOR
+	specularmap textures/mslaf_fearis/modeldd_10b_SPEC
+}
+
+textures/mslaf_fearis/modeldd_10c
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_10c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_10c_NRM, heightmap ( textures/mslaf_fearis/modeldd_10c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_10c_COLOR
+	specularmap textures/mslaf_fearis/modeldd_10c_SPEC
+}
+
+textures/mslaf_fearis/modeldd_11
+{
+	qer_editorimage textures/mslaf_fearis/modeldd_11_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/modeldd_11_NRM, heightmap ( textures/mslaf_fearis/modeldd_11_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/modeldd_11_COLOR
+	specularmap textures/mslaf_fearis/modeldd_11_SPEC
+}
+
+textures/mslaf_fearis/pipedd_02a-1
+{
+	qer_editorimage textures/mslaf_fearis/pipedd_02a-1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/pipedd_02a-1_NRM, heightmap ( textures/mslaf_fearis/pipedd_02a-1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/pipedd_02a-1_COLOR
+	specularmap textures/mslaf_fearis/pipedd_02a-1_SPEC
+}
+
+textures/mslaf_fearis/pipedd_02a
+{
+	qer_editorimage textures/mslaf_fearis/pipedd_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/pipedd_02a_NRM, heightmap ( textures/mslaf_fearis/pipedd_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/pipedd_02a_COLOR
+	specularmap textures/mslaf_fearis/pipedd_02a_SPEC
+}
+
+textures/mslaf_fearis/pipedd_06c
+{
+	qer_editorimage textures/mslaf_fearis/pipedd_06c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/pipedd_06c_NRM, heightmap ( textures/mslaf_fearis/pipedd_06c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/pipedd_06c_COLOR
+	specularmap textures/mslaf_fearis/pipedd_06c_SPEC
+}
+
+textures/mslaf_fearis/pipedd_06c_flat
+{
+	qer_editorimage textures/mslaf_fearis/pipedd_06c_flat_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/pipedd_06c_flat_NRM, heightmap ( textures/mslaf_fearis/pipedd_06c_flat_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/pipedd_06c_flat_COLOR
+	specularmap textures/mslaf_fearis/pipedd_06c_flat_SPEC
+}
+
+textures/mslaf_fearis/prefabcc_01
+{
+	qer_editorimage textures/mslaf_fearis/prefabcc_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabcc_01_NRM, heightmap ( textures/mslaf_fearis/prefabcc_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabcc_01_COLOR
+	specularmap textures/mslaf_fearis/prefabcc_01_SPEC
+}
+
+textures/mslaf_fearis/prefabcc_02
+{
+	qer_editorimage textures/mslaf_fearis/prefabcc_02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabcc_02_NRM, heightmap ( textures/mslaf_fearis/prefabcc_02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabcc_02_COLOR
+	specularmap textures/mslaf_fearis/prefabcc_02_SPEC
+}
+
+textures/mslaf_fearis/prefabcc_06a
+{
+	qer_editorimage textures/mslaf_fearis/prefabcc_06a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabcc_06a_NRM, heightmap ( textures/mslaf_fearis/prefabcc_06a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabcc_06a_COLOR
+	specularmap textures/mslaf_fearis/prefabcc_06a_SPEC
+}
+
+textures/mslaf_fearis/prefabdc_52c1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdc_52c1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdc_52c1_NRM, heightmap ( textures/mslaf_fearis/prefabdc_52c1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdc_52c1_COLOR
+	specularmap textures/mslaf_fearis/prefabdc_52c1_SPEC
+}
+
+textures/mslaf_fearis/prefabdc_52d1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdc_52d1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdc_52d1_NRM, heightmap ( textures/mslaf_fearis/prefabdc_52d1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdc_52d1_COLOR
+	specularmap textures/mslaf_fearis/prefabdc_52d1_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_01a2
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_01a2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_01a2_NRM, heightmap ( textures/mslaf_fearis/prefabdd_01a2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_01a2_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_01a2_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_04a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_04a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_04a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_04a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_04a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_04a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_05a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_05a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_05a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_05a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_05a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_05a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_06c
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_06c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_06c_NRM, heightmap ( textures/mslaf_fearis/prefabdd_06c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_06c_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_06c_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_07-1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_07-1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_07-1_NRM, heightmap ( textures/mslaf_fearis/prefabdd_07-1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_07-1_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_07-1_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_08b
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_08b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_08b_NRM, heightmap ( textures/mslaf_fearis/prefabdd_08b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_08b_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_08b_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_09
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_09_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_09_NRM, heightmap ( textures/mslaf_fearis/prefabdd_09_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_09_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_09_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_11b
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_11b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_11b_NRM, heightmap ( textures/mslaf_fearis/prefabdd_11b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_11b_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_11b_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_11c
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_11c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_11c_NRM, heightmap ( textures/mslaf_fearis/prefabdd_11c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_11c_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_11c_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_12a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_12a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_12a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_12a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_12a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_12a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_13
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_13_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_13_NRM, heightmap ( textures/mslaf_fearis/prefabdd_13_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_13_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_13_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_15a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_15a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_15a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_15a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_15a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_15a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_15c
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_15c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_15c_NRM, heightmap ( textures/mslaf_fearis/prefabdd_15c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_15c_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_15c_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_16a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_16a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_16a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_16a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_16a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_16a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_17b
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_17b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_17b_NRM, heightmap ( textures/mslaf_fearis/prefabdd_17b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_17b_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_17b_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_21
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_21_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_21_NRM, heightmap ( textures/mslaf_fearis/prefabdd_21_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_21_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_21_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_21a1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_21a1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_21a1_NRM, heightmap ( textures/mslaf_fearis/prefabdd_21a1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_21a1_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_21a1_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_21a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_21a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_21a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_21a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_21a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_21a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_24
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_24_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_24_NRM, heightmap ( textures/mslaf_fearis/prefabdd_24_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_24_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_24_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_25-1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_25-1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_25-1_NRM, heightmap ( textures/mslaf_fearis/prefabdd_25-1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_25-1_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_25-1_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_25
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_25_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_25_NRM, heightmap ( textures/mslaf_fearis/prefabdd_25_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_25_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_25_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_29a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_29a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_29a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_29a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_29a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_29a_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_50b
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_50b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_50b_NRM, heightmap ( textures/mslaf_fearis/prefabdd_50b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_50b_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_50b_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_50e
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_50e_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_50e_NRM, heightmap ( textures/mslaf_fearis/prefabdd_50e_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_50e_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_50e_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_52b1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_52b1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_52b1_NRM, heightmap ( textures/mslaf_fearis/prefabdd_52b1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_52b1_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_52b1_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_52b3
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_52b3_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_52b3_NRM, heightmap ( textures/mslaf_fearis/prefabdd_52b3_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_52b3_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_52b3_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_52b4
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_52b4_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_52b4_NRM, heightmap ( textures/mslaf_fearis/prefabdd_52b4_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_52b4_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_52b4_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_52b5
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_52b5_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_52b5_NRM, heightmap ( textures/mslaf_fearis/prefabdd_52b5_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_52b5_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_52b5_SPEC
+}
+
+textures/mslaf_fearis/prefabdd_52c1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_52c1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_52c1_NRM, heightmap ( textures/mslaf_fearis/prefabdd_52c1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_52c1_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_52c1_SPEC
+}
+
+textures/mslaf_fearis/rock1
+{
+	qer_editorimage textures/mslaf_fearis/rock1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/rock1_NRM, heightmap ( textures/mslaf_fearis/rock1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/rock1_COLOR
+	specularmap textures/mslaf_fearis/rock1_SPEC
+}
+
+textures/mslaf_fearis/supportbe_door_05b1
+{
+	qer_editorimage textures/mslaf_fearis/supportbe_door_05b1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/supportbe_door_05b1_NRM, heightmap ( textures/mslaf_fearis/supportbe_door_05b1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/supportbe_door_05b1_COLOR
+	specularmap textures/mslaf_fearis/supportbe_door_05b1_SPEC
+}
+
+textures/mslaf_fearis/supportdd_03
+{
+	qer_editorimage textures/mslaf_fearis/supportdd_03_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/supportdd_03_NRM, heightmap ( textures/mslaf_fearis/supportdd_03_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/supportdd_03_COLOR
+	specularmap textures/mslaf_fearis/supportdd_03_SPEC
+}
+
+textures/mslaf_fearis/supportdd_4b
+{
+	qer_editorimage textures/mslaf_fearis/supportdd_4b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/supportdd_4b_NRM, heightmap ( textures/mslaf_fearis/supportdd_4b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/supportdd_4b_COLOR
+	specularmap textures/mslaf_fearis/supportdd_4b_SPEC
+}
+
+textures/mslaf_fearis/switchdd_01c
+{
+	qer_editorimage textures/mslaf_fearis/switchdd_01c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/switchdd_01c_NRM, heightmap ( textures/mslaf_fearis/switchdd_01c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/switchdd_01c_COLOR
+	specularmap textures/mslaf_fearis/switchdd_01c_SPEC
+}
+
+textures/mslaf_fearis/techwallee_100a1
+{
+	qer_editorimage textures/mslaf_fearis/techwallee_100a1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/techwallee_100a1_NRM, heightmap ( textures/mslaf_fearis/techwallee_100a1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/techwallee_100a1_COLOR
+	specularmap textures/mslaf_fearis/techwallee_100a1_SPEC
+}
+
+textures/mslaf_fearis/techwallee_100a
+{
+	qer_editorimage textures/mslaf_fearis/techwallee_100a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/techwallee_100a_NRM, heightmap ( textures/mslaf_fearis/techwallee_100a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/techwallee_100a_COLOR
+	specularmap textures/mslaf_fearis/techwallee_100a_SPEC
+}
+
+textures/mslaf_fearis/techwallee_100b
+{
+	qer_editorimage textures/mslaf_fearis/techwallee_100b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/techwallee_100b_NRM, heightmap ( textures/mslaf_fearis/techwallee_100b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/techwallee_100b_COLOR
+	specularmap textures/mslaf_fearis/techwallee_100b_SPEC
+}
+
+textures/mslaf_fearis/techwallee_100c
+{
+	qer_editorimage textures/mslaf_fearis/techwallee_100c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/techwallee_100c_NRM, heightmap ( textures/mslaf_fearis/techwallee_100c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/techwallee_100c_COLOR
+	specularmap textures/mslaf_fearis/techwallee_100c_SPEC
+}
+
+textures/mslaf_fearis/techwallee_100d
+{
+	qer_editorimage textures/mslaf_fearis/techwallee_100d_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/techwallee_100d_NRM, heightmap ( textures/mslaf_fearis/techwallee_100d_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/techwallee_100d_COLOR
+	specularmap textures/mslaf_fearis/techwallee_100d_SPEC
+}
+
+textures/mslaf_fearis/trimad_01
+{
+	qer_editorimage textures/mslaf_fearis/trimad_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_01_NRM, heightmap ( textures/mslaf_fearis/trimad_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_01_COLOR
+	specularmap textures/mslaf_fearis/trimad_01_SPEC
+}
+
+textures/mslaf_fearis/trimad_02a
+{
+	qer_editorimage textures/mslaf_fearis/trimad_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_02a_NRM, heightmap ( textures/mslaf_fearis/trimad_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_02a_COLOR
+	specularmap textures/mslaf_fearis/trimad_02a_SPEC
+}
+
+textures/mslaf_fearis/trimad_02b
+{
+	qer_editorimage textures/mslaf_fearis/trimad_02b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_02b_NRM, heightmap ( textures/mslaf_fearis/trimad_02b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_02b_COLOR
+	specularmap textures/mslaf_fearis/trimad_02b_SPEC
+}
+
+textures/mslaf_fearis/trimad_03b
+{
+	qer_editorimage textures/mslaf_fearis/trimad_03b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_03b_NRM, heightmap ( textures/mslaf_fearis/trimad_03b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_03b_COLOR
+	specularmap textures/mslaf_fearis/trimad_03b_SPEC
+}
+
+textures/mslaf_fearis/trimad_03c
+{
+	qer_editorimage textures/mslaf_fearis/trimad_03c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_03c_NRM, heightmap ( textures/mslaf_fearis/trimad_03c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_03c_COLOR
+	specularmap textures/mslaf_fearis/trimad_03c_SPEC
+}
+
+textures/mslaf_fearis/trimad_03d
+{
+	qer_editorimage textures/mslaf_fearis/trimad_03d_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_03d_NRM, heightmap ( textures/mslaf_fearis/trimad_03d_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_03d_COLOR
+	specularmap textures/mslaf_fearis/trimad_03d_SPEC
+}
+
+textures/mslaf_fearis/trimad_03e1
+{
+	qer_editorimage textures/mslaf_fearis/trimad_03e1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_03e1_NRM, heightmap ( textures/mslaf_fearis/trimad_03e1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_03e1_COLOR
+	specularmap textures/mslaf_fearis/trimad_03e1_SPEC
+}
+
+textures/mslaf_fearis/trimad_05r
+{
+	qer_editorimage textures/mslaf_fearis/trimad_05r_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_05r_NRM, heightmap ( textures/mslaf_fearis/trimad_05r_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_05r_COLOR
+	specularmap textures/mslaf_fearis/trimad_05r_SPEC
+}
+
+textures/mslaf_fearis/trimbd5_01a
+{
+	qer_editorimage textures/mslaf_fearis/trimbd5_01a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd5_01a_NRM, heightmap ( textures/mslaf_fearis/trimbd5_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd5_01a_COLOR
+	specularmap textures/mslaf_fearis/trimbd5_01a_SPEC
+}
+
+textures/mslaf_fearis/trimbd5_01b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd5_01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd5_01b_NRM, heightmap ( textures/mslaf_fearis/trimbd5_01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd5_01b_COLOR
+	specularmap textures/mslaf_fearis/trimbd5_01b_SPEC
+}
+
+textures/mslaf_fearis/trimbd5_02
+{
+	qer_editorimage textures/mslaf_fearis/trimbd5_02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd5_02_NRM, heightmap ( textures/mslaf_fearis/trimbd5_02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd5_02_COLOR
+	specularmap textures/mslaf_fearis/trimbd5_02_SPEC
+}
+
+textures/mslaf_fearis/trimbd5_03
+{
+	qer_editorimage textures/mslaf_fearis/trimbd5_03_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd5_03_NRM, heightmap ( textures/mslaf_fearis/trimbd5_03_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd5_03_COLOR
+	specularmap textures/mslaf_fearis/trimbd5_03_SPEC
+}
+
+textures/mslaf_fearis/trimbd5_04
+{
+	qer_editorimage textures/mslaf_fearis/trimbd5_04_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd5_04_NRM, heightmap ( textures/mslaf_fearis/trimbd5_04_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd5_04_COLOR
+	specularmap textures/mslaf_fearis/trimbd5_04_SPEC
+}
+
+textures/mslaf_fearis/trimbd_01b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_01b_NRM, heightmap ( textures/mslaf_fearis/trimbd_01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_01b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_01b_SPEC
+}
+
+textures/mslaf_fearis/trimbd_02b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_02b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_02b_NRM, heightmap ( textures/mslaf_fearis/trimbd_02b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_02b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_02b_SPEC
+}
+
+textures/mslaf_fearis/trimbd_03b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_03b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_03b_NRM, heightmap ( textures/mslaf_fearis/trimbd_03b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_03b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_03b_SPEC
+}
+
+textures/mslaf_fearis/trimbd_04a
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_04a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_04a_NRM, heightmap ( textures/mslaf_fearis/trimbd_04a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_04a_COLOR
+	specularmap textures/mslaf_fearis/trimbd_04a_SPEC
+}
+
+textures/mslaf_fearis/trimbd_08b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_08b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_08b_NRM, heightmap ( textures/mslaf_fearis/trimbd_08b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_08b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_08b_SPEC
+}
+
+textures/mslaf_fearis/trimbd_11d
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_11d_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_11d_NRM, heightmap ( textures/mslaf_fearis/trimbd_11d_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_11d_COLOR
+	specularmap textures/mslaf_fearis/trimbd_11d_SPEC
+}
+
+textures/mslaf_fearis/wallbd_01a
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_01a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_01a_NRM, heightmap ( textures/mslaf_fearis/wallbd_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_01a_COLOR
+	specularmap textures/mslaf_fearis/wallbd_01a_SPEC
+}
+
+textures/mslaf_fearis/wallbd_01b
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_01b_NRM, heightmap ( textures/mslaf_fearis/wallbd_01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_01b_COLOR
+	specularmap textures/mslaf_fearis/wallbd_01b_SPEC
+}
+
+textures/mslaf_fearis/wallbd_01c
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_01c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_01c_NRM, heightmap ( textures/mslaf_fearis/wallbd_01c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_01c_COLOR
+	specularmap textures/mslaf_fearis/wallbd_01c_SPEC
+}
+
+textures/mslaf_fearis/wallbd_02a
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_02a_NRM, heightmap ( textures/mslaf_fearis/wallbd_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_02a_COLOR
+	specularmap textures/mslaf_fearis/wallbd_02a_SPEC
+}
+
+textures/mslaf_fearis/wallbd_03a
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_03a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_03a_NRM, heightmap ( textures/mslaf_fearis/wallbd_03a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_03a_COLOR
+	specularmap textures/mslaf_fearis/wallbd_03a_SPEC
+}
+
+textures/mslaf_fearis/wallbd_03b
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_03b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_03b_NRM, heightmap ( textures/mslaf_fearis/wallbd_03b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_03b_COLOR
+	specularmap textures/mslaf_fearis/wallbd_03b_SPEC
+}
+
+textures/mslaf_fearis/wallbd_03c
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_03c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_03c_NRM, heightmap ( textures/mslaf_fearis/wallbd_03c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_03c_COLOR
+	specularmap textures/mslaf_fearis/wallbd_03c_SPEC
+}
+
+textures/mslaf_fearis/wallbd_11
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_11_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_11_NRM, heightmap ( textures/mslaf_fearis/wallbd_11_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_11_COLOR
+	specularmap textures/mslaf_fearis/wallbd_11_SPEC
+}
+
+textures/mslaf_fearis/wallbd_11a
+{
+	qer_editorimage textures/mslaf_fearis/wallbd_11a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallbd_11a_NRM, heightmap ( textures/mslaf_fearis/wallbd_11a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallbd_11a_COLOR
+	specularmap textures/mslaf_fearis/wallbd_11a_SPEC
+}
+
+textures/mslaf_fearis/wallce_19_1
+{
+	qer_editorimage textures/mslaf_fearis/wallce_19_1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallce_19_1_NRM, heightmap ( textures/mslaf_fearis/wallce_19_1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallce_19_1_COLOR
+	specularmap textures/mslaf_fearis/wallce_19_1_SPEC
+}
+
+textures/mslaf_fearis/walldd6a4_08b
+{
+	qer_editorimage textures/mslaf_fearis/walldd6a4_08b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/walldd6a4_08b_NRM, heightmap ( textures/mslaf_fearis/walldd6a4_08b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/walldd6a4_08b_COLOR
+	specularmap textures/mslaf_fearis/walldd6a4_08b_SPEC
+}
+
+textures/mslaf_fearis/walldd_08a
+{
+	qer_editorimage textures/mslaf_fearis/walldd_08a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/walldd_08a_NRM, heightmap ( textures/mslaf_fearis/walldd_08a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/walldd_08a_COLOR
+	specularmap textures/mslaf_fearis/walldd_08a_SPEC
+}
+
+textures/mslaf_fearis/walldd_29-2
+{
+	qer_editorimage textures/mslaf_fearis/walldd_29-2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/walldd_29-2_NRM, heightmap ( textures/mslaf_fearis/walldd_29-2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/walldd_29-2_COLOR
+	specularmap textures/mslaf_fearis/walldd_29-2_SPEC
+}
+
+textures/mslaf_fearis/walldd_broken02
+{
+	qer_editorimage textures/mslaf_fearis/walldd_broken02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/walldd_broken02_NRM, heightmap ( textures/mslaf_fearis/walldd_broken02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/walldd_broken02_COLOR
+	specularmap textures/mslaf_fearis/walldd_broken02_SPEC
+}
+
+textures/mslaf_fearis/wallde6a4_01a
+{
+	qer_editorimage textures/mslaf_fearis/wallde6a4_01a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde6a4_01a_NRM, heightmap ( textures/mslaf_fearis/wallde6a4_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde6a4_01a_COLOR
+	specularmap textures/mslaf_fearis/wallde6a4_01a_SPEC
+}
+
+textures/mslaf_fearis/wallde6a4_01b
+{
+	qer_editorimage textures/mslaf_fearis/wallde6a4_01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde6a4_01b_NRM, heightmap ( textures/mslaf_fearis/wallde6a4_01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde6a4_01b_COLOR
+	specularmap textures/mslaf_fearis/wallde6a4_01b_SPEC
+}
+
+textures/mslaf_fearis/wallde6a4_06
+{
+	qer_editorimage textures/mslaf_fearis/wallde6a4_06_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde6a4_06_NRM, heightmap ( textures/mslaf_fearis/wallde6a4_06_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde6a4_06_COLOR
+	specularmap textures/mslaf_fearis/wallde6a4_06_SPEC
+}
+
+textures/mslaf_fearis/wallde_01a
+{
+	qer_editorimage textures/mslaf_fearis/wallde_01a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_01a_NRM, heightmap ( textures/mslaf_fearis/wallde_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_01a_COLOR
+	specularmap textures/mslaf_fearis/wallde_01a_SPEC
+}
+
+textures/mslaf_fearis/wallde_01b
+{
+	qer_editorimage textures/mslaf_fearis/wallde_01b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_01b_NRM, heightmap ( textures/mslaf_fearis/wallde_01b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_01b_COLOR
+	specularmap textures/mslaf_fearis/wallde_01b_SPEC
+}
+
+textures/mslaf_fearis/wallde_01c
+{
+	qer_editorimage textures/mslaf_fearis/wallde_01c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_01c_NRM, heightmap ( textures/mslaf_fearis/wallde_01c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_01c_COLOR
+	specularmap textures/mslaf_fearis/wallde_01c_SPEC
+}
+
+textures/mslaf_fearis/wallde_01d
+{
+	qer_editorimage textures/mslaf_fearis/wallde_01d_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_01d_NRM, heightmap ( textures/mslaf_fearis/wallde_01d_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_01d_COLOR
+	specularmap textures/mslaf_fearis/wallde_01d_SPEC
+}
+
+textures/mslaf_fearis/wallde_06
+{
+	qer_editorimage textures/mslaf_fearis/wallde_06_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_06_NRM, heightmap ( textures/mslaf_fearis/wallde_06_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_06_COLOR
+	specularmap textures/mslaf_fearis/wallde_06_SPEC
+}
+
+textures/mslaf_fearis/wallde_07a
+{
+	qer_editorimage textures/mslaf_fearis/wallde_07a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_07a_NRM, heightmap ( textures/mslaf_fearis/wallde_07a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_07a_COLOR
+	specularmap textures/mslaf_fearis/wallde_07a_SPEC
+}
+
+textures/mslaf_fearis/wallde_07b
+{
+	qer_editorimage textures/mslaf_fearis/wallde_07b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_07b_NRM, heightmap ( textures/mslaf_fearis/wallde_07b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_07b_COLOR
+	specularmap textures/mslaf_fearis/wallde_07b_SPEC
+}
+
+textures/mslaf_fearis/wallde_07c
+{
+	qer_editorimage textures/mslaf_fearis/wallde_07c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_07c_NRM, heightmap ( textures/mslaf_fearis/wallde_07c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_07c_COLOR
+	specularmap textures/mslaf_fearis/wallde_07c_SPEC
+}
+
+textures/mslaf_fearis/wallde_08a
+{
+	qer_editorimage textures/mslaf_fearis/wallde_08a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_08a_NRM, heightmap ( textures/mslaf_fearis/wallde_08a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_08a_COLOR
+	specularmap textures/mslaf_fearis/wallde_08a_SPEC
+}
+
+textures/mslaf_fearis/wallde_08b
+{
+	qer_editorimage textures/mslaf_fearis/wallde_08b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_08b_NRM, heightmap ( textures/mslaf_fearis/wallde_08b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_08b_COLOR
+	specularmap textures/mslaf_fearis/wallde_08b_SPEC
+}
+
+textures/mslaf_fearis/wallde_08f
+{
+	qer_editorimage textures/mslaf_fearis/wallde_08f_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_08f_NRM, heightmap ( textures/mslaf_fearis/wallde_08f_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_08f_COLOR
+	specularmap textures/mslaf_fearis/wallde_08f_SPEC
+}
+
+textures/mslaf_fearis/wallde_09a
+{
+	qer_editorimage textures/mslaf_fearis/wallde_09a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_09a_NRM, heightmap ( textures/mslaf_fearis/wallde_09a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_09a_COLOR
+	specularmap textures/mslaf_fearis/wallde_09a_SPEC
+}
+
+textures/mslaf_fearis/wallde_09b
+{
+	qer_editorimage textures/mslaf_fearis/wallde_09b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_09b_NRM, heightmap ( textures/mslaf_fearis/wallde_09b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_09b_COLOR
+	specularmap textures/mslaf_fearis/wallde_09b_SPEC
+}
+
+textures/mslaf_fearis/wallde_12a
+{
+	qer_editorimage textures/mslaf_fearis/wallde_12a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_12a_NRM, heightmap ( textures/mslaf_fearis/wallde_12a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_12a_COLOR
+	specularmap textures/mslaf_fearis/wallde_12a_SPEC
+}
+
+textures/mslaf_fearis/wallde_19_1
+{
+	qer_editorimage textures/mslaf_fearis/wallde_19_1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_19_1_NRM, heightmap ( textures/mslaf_fearis/wallde_19_1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_19_1_COLOR
+	specularmap textures/mslaf_fearis/wallde_19_1_SPEC
+}
+
+textures/mslaf_fearis/walldf_02-1d
+{
+	qer_editorimage textures/mslaf_fearis/walldf_02-1d_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/walldf_02-1d_NRM, heightmap ( textures/mslaf_fearis/walldf_02-1d_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/walldf_02-1d_COLOR
+	specularmap textures/mslaf_fearis/walldf_02-1d_SPEC
+}
+
+textures/mslaf_fearis/walldf_02-2b
+{
+	qer_editorimage textures/mslaf_fearis/walldf_02-2b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/walldf_02-2b_NRM, heightmap ( textures/mslaf_fearis/walldf_02-2b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/walldf_02-2b_COLOR
+	specularmap textures/mslaf_fearis/walldf_02-2b_SPEC
+}
+
+textures/mslaf_fearis/wallee_03_1
+{
+	qer_editorimage textures/mslaf_fearis/wallee_03_1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_03_1_NRM, heightmap ( textures/mslaf_fearis/wallee_03_1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_03_1_COLOR
+	specularmap textures/mslaf_fearis/wallee_03_1_SPEC
+}
+
+textures/mslaf_fearis/wallee_03_2
+{
+	qer_editorimage textures/mslaf_fearis/wallee_03_2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_03_2_NRM, heightmap ( textures/mslaf_fearis/wallee_03_2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_03_2_COLOR
+	specularmap textures/mslaf_fearis/wallee_03_2_SPEC
+}
+
+textures/mslaf_fearis/wallee_03_4
+{
+	qer_editorimage textures/mslaf_fearis/wallee_03_4_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_03_4_NRM, heightmap ( textures/mslaf_fearis/wallee_03_4_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_03_4_COLOR
+	specularmap textures/mslaf_fearis/wallee_03_4_SPEC
+}
+
+textures/mslaf_fearis/wallee_07_2
+{
+	qer_editorimage textures/mslaf_fearis/wallee_07_2_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_07_2_NRM, heightmap ( textures/mslaf_fearis/wallee_07_2_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_07_2_COLOR
+	specularmap textures/mslaf_fearis/wallee_07_2_SPEC
+}
+
+textures/mslaf_fearis/basedd_05a
+{
+	qer_editorimage textures/mslaf_fearis/basedd_05a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_05a_NRM, heightmap ( textures/mslaf_fearis/basedd_05a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_05a_COLOR
+	specularmap textures/mslaf_fearis/basedd_05a_SPEC
+}
+
+textures/mslaf_fearis/wallee_08
+{
+	qer_editorimage textures/mslaf_fearis/wallee_08_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_08_NRM, heightmap ( textures/mslaf_fearis/wallee_08_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_08_COLOR
+	specularmap textures/mslaf_fearis/wallee_08_SPEC
+}
+
+textures/mslaf_fearis/wallee_10
+{
+	qer_editorimage textures/mslaf_fearis/wallee_10_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_10_NRM, heightmap ( textures/mslaf_fearis/wallee_10_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_10_COLOR
+	specularmap textures/mslaf_fearis/wallee_10_SPEC
+}
+
+textures/mslaf_fearis/wallee_12a
+{
+	qer_editorimage textures/mslaf_fearis/wallee_12a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_12a_NRM, heightmap ( textures/mslaf_fearis/wallee_12a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_12a_COLOR
+	specularmap textures/mslaf_fearis/wallee_12a_SPEC
+}
+
+textures/mslaf_fearis/wallee_13
+{
+	qer_editorimage textures/mslaf_fearis/wallee_13_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_13_NRM, heightmap ( textures/mslaf_fearis/wallee_13_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_13_COLOR
+	specularmap textures/mslaf_fearis/wallee_13_SPEC
+}
+
+textures/mslaf_fearis/wallee_14a
+{
+	qer_editorimage textures/mslaf_fearis/wallee_14a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_14a_NRM, heightmap ( textures/mslaf_fearis/wallee_14a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_14a_COLOR
+	specularmap textures/mslaf_fearis/wallee_14a_SPEC
+}
+
+
+textures/mslaf_fearis/basedd_06a
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_COLOR
+	diffusemap textures/mslaf_fearis/basedd_06a_COLOR
+}
+
+textures/mslaf_fearis/basedd_06a_05
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_05_COLOR
+	diffusemap textures/mslaf_fearis/basedd_06a_05_COLOR
+}
+
+textures/mslaf_fearis/basedd_06a_04
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_04_COLOR
+	diffusemap textures/mslaf_fearis/basedd_06a_04_COLOR
+}
+
+textures/mslaf_fearis/flooree_02a
+{
+	qer_editorimage textures/mslaf_fearis/flooree_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/flooree_02a_NRM, heightmap ( textures/mslaf_fearis/flooree_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/flooree_02a_COLOR
+	specularmap textures/mslaf_fearis/flooree_02a_SPEC
+}
+
+textures/mslaf_fearis/wallee_20b
+{
+	qer_editorimage textures/mslaf_fearis/wallee_20b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_20b_NRM, heightmap ( textures/mslaf_fearis/wallee_20b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_20b_COLOR
+	specularmap textures/mslaf_fearis/wallee_20b_SPEC
+}
+
+textures/mslaf_fearis/wallee_21e
+{
+	qer_editorimage textures/mslaf_fearis/wallee_21e_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_21e_NRM, heightmap ( textures/mslaf_fearis/wallee_21e_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_21e_COLOR
+	specularmap textures/mslaf_fearis/wallee_21e_SPEC
+}
+
+textures/mslaf_fearis/wallee_22b
+{
+	qer_editorimage textures/mslaf_fearis/wallee_22b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_22b_NRM, heightmap ( textures/mslaf_fearis/wallee_22b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_22b_COLOR
+	specularmap textures/mslaf_fearis/wallee_22b_SPEC
+}
+
+textures/mslaf_fearis/wallee_38a
+{
+	qer_editorimage textures/mslaf_fearis/wallee_38a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_38a_NRM, heightmap ( textures/mslaf_fearis/wallee_38a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_38a_COLOR
+	specularmap textures/mslaf_fearis/wallee_38a_SPEC
+}
+
+textures/mslaf_fearis/basedd_02a
+{
+	qer_editorimage textures/mslaf_fearis/basedd_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_02a_NRM, heightmap ( textures/mslaf_fearis/basedd_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_02a_COLOR
+	specularmap textures/mslaf_fearis/basedd_02a_SPEC
+}
+
+textures/mslaf_fearis/basedd_02a_vxr
+{
+	qer_editorimage textures/mslaf_fearis/basedd_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_02a_NRM, heightmap ( textures/mslaf_fearis/basedd_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_02a_COLOR
+	specularmap textures/mslaf_fearis/basedd_02a_SPEC
+	{
+		map $lightmap
+	}
+	{
+		map textures/mslaf_fearis/basedd_02a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+		map textures/mslaf_fearis/env/environ1
+		blendFunc GL_DST_COLOR GL_ONE
+		tcGen environment
+	}
+}
+
+textures/mslaf_fearis/basedd_05a_phong
+{
+	qer_editorimage textures/mslaf_fearis/basedd_05a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_05a_NRM, heightmap ( textures/mslaf_fearis/basedd_05a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_05a_COLOR
+	specularmap textures/mslaf_fearis/basedd_05a_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	{
+        	map textures/mslaf_fearis/basedd_05a_COLOR
+	        rgbGen identity
+	}
+	{
+        	map $lightmap
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_phong
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	{
+        	map textures/mslaf_fearis/basedd_06a_COLOR
+	        rgbGen identity
+	}
+	{
+        	map $lightmap
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_vxr
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_SPEC
+	{
+		map $lightmap
+		//blendFunc GL_DST_COLOR GL_ZERO
+		//rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/basedd_06a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+		map textures/mslaf_fearis/env/environ1
+		blendFunc GL_DST_COLOR GL_ONE
+		tcGen environment
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_04_phong
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_04_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_04_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_04_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_04_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_04_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	{
+        	map textures/mslaf_fearis/basedd_06a_04_COLOR
+	        rgbGen identity
+	}
+	{
+        	map $lightmap
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_05_phong
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_05_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_05_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_05_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_05_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_05_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	{
+        	map textures/mslaf_fearis/basedd_06a_05_COLOR
+	        rgbGen identity
+	}
+	{
+        	map $lightmap
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_vx
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	xmap_onlyvertexlighting // for ShaderEd compatibility
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/basedd_06a_COLOR
+		rgbGen vertex
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_04_vx
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_04_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_04_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_04_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_04_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_04_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	xmap_onlyvertexlighting // for ShaderEd compatibility
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/basedd_06a_04_COLOR
+		rgbGen vertex
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_04_vxr
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_04_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_04_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_04_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_04_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_04_SPEC
+	{
+		map $lightmap
+		//blendFunc GL_DST_COLOR GL_ZERO
+		//rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/basedd_06a_04_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+		map textures/mslaf_fearis/env/environ1
+		blendFunc GL_DST_COLOR GL_ONE
+		tcGen environment
+	}
+}
+
+textures/mslaf_fearis/basedd_06a_05_vx
+{
+	qer_editorimage textures/mslaf_fearis/basedd_06a_05_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/basedd_06a_05_NRM, heightmap ( textures/mslaf_fearis/basedd_06a_05_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/basedd_06a_05_COLOR
+	specularmap textures/mslaf_fearis/basedd_06a_05_SPEC
+	xmap_shadeangle 300
+	xmap_nonplanar
+	xmap_splotchfix
+	xmap_onlyvertexlighting // for ShaderEd compatibility
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/basedd_06a_05_COLOR
+		rgbGen vertex
+	}
+}
+
+textures/mslaf_fearis/black
+{
+	qer_editorimage	textures/mslaf_fearis/black_COLOR
+	xmap_nolightmap
+	surfaceparm nolightmap
+	{
+	        map textures/mslaf_fearis/black_COLOR
+	}
+}
+
+textures/mslaf_fearis/box1_nonsolid
+{
+	qer_editorimage textures/mslaf_fearis/box01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/box01_NRM, heightmap ( textures/mslaf_fearis/box01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/box01_COLOR
+	specularmap textures/mslaf_fearis/box01_SPEC
+	surfaceparm	nonsolid
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/box1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+}
+
+textures/mslaf_fearis/console_elev_up
+{
+	qer_editorimage textures/mslaf_fearis/console_elev_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_elev_NRM, heightmap ( textures/mslaf_fearis/console_elev_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_elev_COLOR
+	specularmap textures/mslaf_fearis/console_elev_SPEC
+	xmap_onlyvertexlighting // for ShaderEd compatibility
+	xmap_nolightmap
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_elev_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/console_elev_up
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+	{
+	        animMap 2 textures/mslaf_fearis/black textures/mslaf_fearis/glows/console_elev_up_1 textures/mslaf_fearis/glows/console_elev_up_2
+	        blendFunc GL_ONE GL_ONE
+	}
+}
+
+
+textures/mslaf_fearis/console_elev_dn
+{
+	qer_editorimage textures/mslaf_fearis/console_elev_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_elev_NRM, heightmap ( textures/mslaf_fearis/console_elev_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_elev_COLOR
+	specularmap textures/mslaf_fearis/console_elev_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_elev_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/console_elev_dn
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+	{
+	        animMap 2 textures/mslaf_fearis/black textures/mslaf_fearis/glows/console_elev_dn_1 textures/mslaf_fearis/glows/console_elev_dn_2
+	        blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/mslaf_fearis/dooree_05b_lights
+{
+	qer_editorimage textures/mslaf_fearis/dooree_05b_lights_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/dooree_05b_lights_NRM, heightmap ( textures/mslaf_fearis/dooree_05b_lights_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/dooree_05b_lights_COLOR
+	specularmap textures/mslaf_fearis/dooree_05b_lights_SPEC
+}
+
+textures/mslaf_fearis/dooree_05b_lights_open
+{
+	qer_editorimage textures/mslaf_fearis/dooree_05b_lights_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/dooree_05b_lights_NRM, heightmap ( textures/mslaf_fearis/dooree_05b_lights_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/dooree_05b_lights_COLOR
+	specularmap textures/mslaf_fearis/dooree_05b_lights_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/dooree_05b_lights_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/dooree_05_blue_glow
+		blendFunc GL_ONE GL_ONE
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/dooree_05b_lights_closed
+{
+	qer_editorimage textures/mslaf_fearis/dooree_05b_lights_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/dooree_05b_lights_NRM, heightmap ( textures/mslaf_fearis/dooree_05b_lights_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/dooree_05b_lights_COLOR
+	specularmap textures/mslaf_fearis/dooree_05b_lights_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/dooree_05b_lights_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/dooree_05_red_glow
+		blendFunc GL_ONE GL_ONE
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/flooree_02a_vxphong
+{
+	qer_editorimage textures/mslaf_fearis/flooree_02a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/flooree_02a_NRM, heightmap ( textures/mslaf_fearis/flooree_02a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/flooree_02a_COLOR
+	specularmap textures/mslaf_fearis/flooree_02a_SPEC
+	xmap_material SolidMetal
+	xmap_shadeangle 120
+	xmap_nonplanar
+	xmap_splotchfix
+	xmap_onlyvertexlighting // for ShaderEd compatibility
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/flooree_02a_COLOR
+		rgbGen vertex
+	}
+}
+
+textures/mslaf_fearis/floordd_02b
+{
+	qer_editorimage textures/mslaf_fearis/floordd_02b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/floordd_02b_NRM, heightmap ( textures/mslaf_fearis/floordd_02b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/floordd_02b_COLOR
+	specularmap textures/mslaf_fearis/floordd_02b_SPEC
+	
+	xmap_shadeangle 120
+	xmap_material SolidMetal
+	{
+		map $lightmap
+	}
+	{
+		map textures/mslaf_fearis/floordd_02b_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+}
+
+textures/mslaf_fearis/gratecc_01
+{
+	qer_editorimage textures/mslaf_fearis/gratecc_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/gratecc_01_NRM, heightmap ( textures/mslaf_fearis/gratecc_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/gratecc_01_COLOR
+	specularmap textures/mslaf_fearis/gratecc_01_SPEC
+	
+	xmap_alphashadow
+	cull twosided
+	xmap_material HollowMetal
+	{
+		map textures/mslaf_fearis/gratecc_01_COLOR
+		alphaFunc GE128
+		depthWrite
+		rgbGen identity
+	}
+	{
+		map $lightmap
+		blendFunc GL_DST_COLOR GL_ZERO
+		depthFunc equal
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/lightxb_01a
+{
+	bumpmap addnormals ( textures/mslaf_fearis/lightxb_01a_NRM, heightmap ( textures/mslaf_fearis/lightxb_01a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightxb_01a_COLOR
+	specularmap textures/mslaf_fearis/lightxb_01a_SPEC
+	qer_editorimage	textures/mslaf_fearis/lightxb_01a_COLOR
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/lightxb_01a_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+	        map textures/mslaf_fearis/glows/lightxb_01a_glow
+		blendFunc GL_ONE GL_ONE
+        }
+}
+
+textures/mslaf_fearis/lightxb_01r
+{
+	qer_editorimage textures/mslaf_fearis/lightxb_01r_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightxb_01r_NRM, heightmap ( textures/mslaf_fearis/lightxb_01r_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightxb_01r_COLOR
+	specularmap textures/mslaf_fearis/lightxb_01r_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/lightxb_01r_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+	        map textures/mslaf_fearis/glows/lightxb_01r_glow
+		blendFunc GL_ONE GL_ONE
+        }
+}
+
+textures/mslaf_fearis/lightde_01
+{
+	qer_editorimage textures/mslaf_fearis/lightde_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightde_01_NRM, heightmap ( textures/mslaf_fearis/lightde_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightde_01_COLOR
+	specularmap textures/mslaf_fearis/lightde_01_SPEC
+	xmap_lightimage textures/mslaf_fearis/glows/lightde_01_glow
+	xmap_surfacelight 100
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/lightde_01_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+	        map textures/mslaf_fearis/glows/lightde_01_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+textures/mslaf_fearis/lightde_01_nolight
+{
+	qer_editorimage textures/mslaf_fearis/lightde_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightde_01_NRM, heightmap ( textures/mslaf_fearis/lightde_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightde_01_COLOR
+	specularmap textures/mslaf_fearis/lightde_01_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/lightde_01_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+	        map textures/mslaf_fearis/glows/lightde_01_glow
+		blendFunc GL_ONE GL_ONE
+        }
+}
+
+textures/mslaf_fearis/lightde_01_nolight_glow
+{
+	qer_editorimage textures/mslaf_fearis/lightde_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightde_01_NRM, heightmap ( textures/mslaf_fearis/lightde_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightde_01_COLOR
+	specularmap textures/mslaf_fearis/lightde_01_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/lightde_01_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+	        map textures/mslaf_fearis/glows/lightde_01_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/lightde_02
+{
+	qer_editorimage textures/mslaf_fearis/lightde_02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightde_02_NRM, heightmap ( textures/mslaf_fearis/lightde_02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightde_02_COLOR
+	specularmap textures/mslaf_fearis/lightde_02_SPEC
+	xmap_surfacelight 1000
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/lightde_02_COLOR
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/lightde_02_glow
+{
+	qer_editorimage textures/mslaf_fearis/lightde_02_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/lightde_02_NRM, heightmap ( textures/mslaf_fearis/lightde_02_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/lightde_02_COLOR
+	specularmap textures/mslaf_fearis/lightde_02_SPEC
+	xmap_surfacelight 1000
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/lightde_02_COLOR
+		rgbGen identity
+		glow
+	}
+}
+
+textures/mslaf_fearis/lightde_02_nolight
+{
+	qer_editorimage	textures/mslaf_fearis/lightde_02_COLOR
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/lightde_02_COLOR
+		rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/lightde_02_nolight_glow
+{
+	qer_editorimage	textures/mslaf_fearis/lightde_02_COLOR
+	xmap_nolightmap
+	{
+		map textures/mslaf_fearis/lightde_02_COLOR
+		rgbGen identity
+		glow
+	}
+}
+
+textures/mslaf_fearis/prefabdd_03b
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_03b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_03b_NRM, heightmap ( textures/mslaf_fearis/prefabdd_03b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_03b_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_03b_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_03b_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{	
+		map textures/mslaf_fearis/glows/prefabdd_03b_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+
+textures/mslaf_fearis/prefabdd_12c1
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_12c1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_12c1_NRM, heightmap ( textures/mslaf_fearis/prefabdd_12c1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_12c1_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_12c1_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_12c1_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{	
+		map textures/mslaf_fearis/glows/prefabdd_12c_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/mslaf_fearis/prefabdd_17a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_17a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_17a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_17a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_17a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_17a_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_17a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{	
+		map textures/mslaf_fearis/glows/prefabdd_17a_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/mslaf_fearis/prefabdd_18a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_18a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_18a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_18a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_18a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_18a_SPEC
+	xmap_lightimage textures/mslaf_fearis/glows/prefabdd_18a_glow
+	xmap_surfacelight 500
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_18a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/prefabdd_18a_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/prefabdd_18c
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_18c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_18c_NRM, heightmap ( textures/mslaf_fearis/prefabdd_18c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_18c_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_18c_SPEC
+	xmap_lightimage textures/mslaf_fearis/glows/prefabdd_18c_glow
+	xmap_surfacelight 500
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_18c_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/prefabdd_18c_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/prefabdd_22a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_22a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_22a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_22a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_22a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_22a_SPEC
+	xmap_lightimage textures/mslaf_fearis/glows/prefabdd_22a_glow
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_22a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/prefabdd_22_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/mslaf_fearis/prefabdd_24a
+{
+	qer_editorimage textures/mslaf_fearis/prefabdd_24a_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/prefabdd_24a_NRM, heightmap ( textures/mslaf_fearis/prefabdd_24a_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/prefabdd_24a_COLOR
+	specularmap textures/mslaf_fearis/prefabdd_24a_SPEC
+	xmap_lightimage textures/mslaf_fearis/glows/prefabdd_24a_glow
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/prefabdd_24a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/prefabdd_24_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/mslaf_fearis/sector1w
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_screen1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/sector1w
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/sector2w
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_screen1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/sector2w
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/sector3w
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_screen1
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/sector3w
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/sector1r
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_screen1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/sector1r
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/sector2r
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_screen1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/sector2r
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/sector3r
+{
+	qer_editorimage textures/mslaf_fearis/console_screen1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/console_screen1_NRM, heightmap ( textures/mslaf_fearis/console_screen1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/console_screen1_COLOR
+	specularmap textures/mslaf_fearis/console_screen1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/console_screen1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/sector3r
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+
+textures/mslaf_fearis/screen_m1
+{
+	qer_editorimage textures/mslaf_fearis/screen_m1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/screen_m1_NRM, heightmap ( textures/mslaf_fearis/screen_m1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/screen_m1_COLOR
+	specularmap textures/mslaf_fearis/screen_m1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/screen_m1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/screen_m1_1
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/screen_m2
+{
+	qer_editorimage textures/mslaf_fearis/screen_m1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/screen_m1_NRM, heightmap ( textures/mslaf_fearis/screen_m1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/screen_m1_COLOR
+	specularmap textures/mslaf_fearis/screen_m1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/screen_m1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/screen_m1_2
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/screen_m3
+{
+	qer_editorimage textures/mslaf_fearis/screen_m1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/screen_m1_NRM, heightmap ( textures/mslaf_fearis/screen_m1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/screen_m1_COLOR
+	specularmap textures/mslaf_fearis/screen_m1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/screen_m1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/screen_m1_3
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+}
+
+textures/mslaf_fearis/screen_m4
+{
+	qer_editorimage textures/mslaf_fearis/screen_m1_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/screen_m1_NRM, heightmap ( textures/mslaf_fearis/screen_m1_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/screen_m1_COLOR
+	specularmap textures/mslaf_fearis/screen_m1_SPEC
+	{
+	        map $lightmap
+	        rgbGen identity
+	}
+	{
+	        map textures/mslaf_fearis/screen_m1_COLOR
+	        blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+        	map textures/mslaf_fearis/glows/screen_m1_3
+        	blendFunc GL_ONE GL_ONE
+        	rgbGen identity
+	}
+	{
+        	map textures/mslaf_fearis/glows/screen_m1_4
+	        blendFunc GL_ONE GL_ONE
+	        rgbGen wave triangle 0.75 1 0 1
+	}
+}
+
+
+textures/mslaf_fearis/switchdd_01c-1_on
+{
+	xmap_lightimage textures/mslaf_fearis/glows/switchdd_01-1_on_glow
+	qer_editorimage textures/mslaf_fearis/switchdd_01c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/switchdd_01c_NRM, heightmap ( textures/mslaf_fearis/switchdd_01c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/switchdd_01c_COLOR
+	specularmap textures/mslaf_fearis/switchdd_01c_SPEC
+	xmap_surfacelight	25
+	surfaceparm	nomarks
+    {
+        map $lightmap
+        rgbGen identity
+        tcGen lightmap
+    }
+    {
+        map textures/mslaf_fearis/switchdd_01c_COLOR
+        blendFunc GL_DST_COLOR GL_ZERO
+        rgbGen identity
+    }
+    {
+        map textures/mslaf_fearis/glows/switchdd_01-1_on_glow
+        blendFunc GL_ONE GL_ONE
+        rgbGen identity
+    }
+    {
+        map textures/mslaf_fearis/glows/switchdd_01_on_glow
+        blendFunc GL_ONE GL_ONE
+        rgbGen wave sin 0.9 1 0.2 1
+    }
+}
+
+textures/mslaf_fearis/switchdd_01c-1_off
+{
+	xmap_lightimage textures/mslaf_fearis/glows/switchdd_01-1_on_glow.jpg
+	qer_editorimage textures/mslaf_fearis/switchdd_01c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/switchdd_01c_NRM, heightmap ( textures/mslaf_fearis/switchdd_01c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/switchdd_01c_COLOR
+	specularmap textures/mslaf_fearis/switchdd_01c_SPEC
+	xmap_surfacelight	25
+	surfaceparm	nomarks
+    {
+        map $lightmap
+        rgbGen identity
+        tcGen lightmap
+    }
+    {
+        map textures/mslaf_fearis/switchdd_01c_COLOR
+        blendFunc GL_DST_COLOR GL_ZERO
+        rgbGen identity
+    }
+    {
+        map textures/mslaf_fearis/glows/switchdd_01-1_off_glow
+        blendFunc GL_ONE GL_ONE
+        rgbGen identity
+    }
+    {
+        map textures/mslaf_fearis/glows/switchdd_01_on_glow
+        blendFunc GL_ONE GL_ONE
+        rgbGen identity
+    }
+}
+
+textures/mslaf_fearis/switchcd_01
+{
+	qer_editorimage textures/mslaf_fearis/switchcd_01_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/switchcd_01_NRM, heightmap ( textures/mslaf_fearis/switchcd_01_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/switchcd_01_COLOR
+	specularmap textures/mslaf_fearis/switchcd_01_SPEC
+    {
+        map $lightmap
+        rgbGen identity
+        tcGen lightmap
+    }
+    {
+        map textures/mslaf_fearis/switchcd_01_COLOR
+        blendFunc GL_DST_COLOR GL_ZERO
+        rgbGen identity
+    }
+    {
+        map textures/mslaf_fearis/glows/switchcd_01_04_off_glow
+        blendFunc GL_ONE GL_ONE
+        rgbGen identity
+    }
+}
+
+textures/mslaf_fearis/trimad_05b
+{
+	qer_editorimage textures/mslaf_fearis/trimad_05b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_05b_NRM, heightmap ( textures/mslaf_fearis/trimad_05b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_05b_COLOR
+	specularmap textures/mslaf_fearis/trimad_05b_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimad_05b_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimad_05b_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/trimad_06a
+{
+	qer_editorimage textures/mslaf_fearis/trimad_06a_COLOR
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimad_06a_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimad_06a_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/trimad_06b
+{
+	qer_editorimage textures/mslaf_fearis/trimad_06b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_06b_NRM, heightmap ( textures/mslaf_fearis/trimad_06b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_06b_COLOR
+	specularmap textures/mslaf_fearis/trimad_06b_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimad_06b_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimad_06b_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+
+	}
+}
+
+textures/mslaf_fearis/trimad_06c
+{
+	qer_editorimage textures/mslaf_fearis/trimad_06c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimad_06c_NRM, heightmap ( textures/mslaf_fearis/trimad_06c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimad_06c_COLOR
+	specularmap textures/mslaf_fearis/trimad_06c_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimad_06c_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimad_06c_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/trimbd_05b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_05b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_05b_NRM, heightmap ( textures/mslaf_fearis/trimbd_05b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_05b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_05b_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimbd_05b_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimbd_05b_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+textures/mslaf_fearis/trimbd_06b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_06b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_06b_NRM, heightmap ( textures/mslaf_fearis/trimbd_06b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_06b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_06b_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimbd_06b_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimbd_06_glow
+		blendFunc GL_ONE GL_ONE
+		glow
+	}
+}
+
+
+
+textures/mslaf_fearis/trimbd_11b
+{
+	qer_editorimage textures/mslaf_fearis/trimbd_11b_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/trimbd_11b_NRM, heightmap ( textures/mslaf_fearis/trimbd_11b_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/trimbd_11b_COLOR
+	specularmap textures/mslaf_fearis/trimbd_11b_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/trimbd_11b_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/trimbd_11_blue_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+
+textures/mslaf_fearis/wallde_08c
+{
+	qer_editorimage textures/mslaf_fearis/wallde_08c_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallde_08c_NRM, heightmap ( textures/mslaf_fearis/wallde_08c_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallde_08c_COLOR
+	specularmap textures/mslaf_fearis/wallde_08c_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/wallde_08c_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/wallde_08c_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+//textures/mslaf_fearis/wallee_09d_white_nolight
+textures/mslaf_fearis/wallee_09d_white
+{
+	qer_editorimage textures/mslaf_fearis/wallee_09d_white_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/wallee_09d_white_NRM, heightmap ( textures/mslaf_fearis/wallee_09d_white_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/wallee_09d_white_COLOR
+	specularmap textures/mslaf_fearis/wallee_09d_white_SPEC
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/wallee_09d_white_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/mslaf_fearis/glows/wallee_09_light3_glow
+		blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/mslaf_fearis/vent01_vxr
+{
+	qer_editorimage textures/mslaf_fearis/vent01_vxr_COLOR
+	bumpmap addnormals ( textures/mslaf_fearis/vent01_vxr_NRM, heightmap ( textures/mslaf_fearis/vent01_vxr_DISP, 1 ) )
+	diffusemap textures/mslaf_fearis/vent01_vxr_COLOR
+	specularmap textures/mslaf_fearis/vent01_vxr_SPEC
+	{
+		map $lightmap
+	}
+	{
+		map textures/mslaf_fearis/vent01_vxr_COLOR
+		blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+		map textures/mslaf_fearis/env/environ1
+		blendFunc GL_DST_COLOR GL_ONE
+		tcGen environment
+	}
+}

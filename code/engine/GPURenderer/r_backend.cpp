@@ -10788,7 +10788,7 @@ static void RB_RenderView( void )
         GL_CheckErrors();
 #ifdef EXPERIMENTAL
         // render depth of field post process effect
-        RB_RenderDepthOfField( false );
+        RB_RenderDepthOfField();
 #endif
         // render bloom post process effect
         RB_RenderBloom();
@@ -10799,12 +10799,12 @@ static void RB_RenderView( void )
         // render rotoscope post process effect
         RB_RenderRotoscope();
         
-#if 0
+#if 1
         // add the sun flare
         RB_DrawSun();
 #endif
         
-#if 0
+#if 1
         // add light flares on lights that aren't obscured
         RB_RenderFlares();
 #endif
